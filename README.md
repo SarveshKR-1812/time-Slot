@@ -57,4 +57,5 @@ A webpage displaying the class timetable in a properly formatted HTML table with
 3. Display a message if no timetable records are available.
 <img width="1917" height="967" alt="Screenshot 2026-11-04 225707" src="https://github.com/user-attachments/assets/a18a4f8d-4ca0-4523-a63f-173036e52a34" />
 <img width="1917" height="826" alt="Screenshot 2026-11-04 230517" src="https://github.com/user-attachments/assets/439993dc-f231-4c5b-af0f-e1e3e63933f9" />
+http://127.0.0.1:8000/
 
